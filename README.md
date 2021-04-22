@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @derellg
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI for Finance
-- 💞️ I’m looking to collaborate on ...Data Sciemce/ AI projects
+- 💞️ I’m looking to collaborate on ...Data Science/ AI projects
 - 📫 How to reach me derellg86@gmail.com
 
 <!---
